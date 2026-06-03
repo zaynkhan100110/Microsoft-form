@@ -1,5 +1,5 @@
 ## 📋 Give Us Your Feedback
 
-We'd love to hear from you! Please take a moment to fill out our form.
+Use the below link to access the live form.
 
-[**Open Feedback Form**](./form.html)
+[**Open Feedback Form**](https://forms.office.com/r/X0auizrWVh)
